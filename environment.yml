@@ -1,0 +1,24 @@
+name: punch
+dependencies:
+  - python=2.7
+  - ipython-notebook
+  - flask
+  - numpy=1.9
+  - scipy=0.16
+  - pandas=0.16
+  - numexpr=2.3
+  - statsmodels=0.6
+  - seaborn=0.6
+  - matplotlib=1.4
+  - scikit-learn=0.16
+  - scikit-image=0.10
+  - mayavi=4.3
+  - pil=1.1
+  - pip:
+    - rpy2==2.4
+    - nibabel==2.0
+    - nipype==0.10
+    - pysurfer==0.6
+    - lyman==0.0.8
+    - moss==0.3.4
+    - daft==0.0.3
