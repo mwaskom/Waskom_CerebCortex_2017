@@ -3,9 +3,7 @@ Analyses for Waskom et al. (In Press) Cereb Cortex
 
 This repository contains analysis code for the following paper:
 
-Waskom, M.L., Frank, M.C., Wagner, A.D. (In Press). Adaptive engagement of cognitive control in context-dependent decision-making. *Cerebral Cortex*.
-
-A preprint of the paper is availible [here](http://stanford.edu/~mwaskom/papers/waskom_cereb_cortex_in_press.pdf).
+Waskom, M.L., Frank, M.C., Wagner, A.D. (In Press). [Adaptive engagement of cognitive control in context-dependent decision-making.](http://cercor.oxfordjournals.org/content/early/2016/01/04/cercor.bhv333.full?keytype=ref&ijkey=5hjFprzQ7miiYZ4) *Cerebral Cortex*.
 
 The high-level code is contained within several IPython notebooks that performed the analyses and generated all figures in the manuscript. This code makes use of a local library of experiment-specific code and several other libraries that are freely availible elsewhere.
 
